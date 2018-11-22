@@ -4,17 +4,18 @@
 
 <html prefix="og:http://ogp.me/ns#">
 <head runat="server"> 
-  <meta property="og:title" content="Marissa Berresford - Online Portfolio" />
-  <meta property="og:image" content="http://maberresford.com/images/cmdline.jpg" />
+    <meta property="og:title" content="Marissa Berresford - Online Portfolio" />
+    <meta property="og:image" content="http://maberresford.com/images/cmdline.jpg" />
     <meta charset="UTF-8">
-  
+    <meta name="description" content="Marissa Berresford is a programmer who enjoys learning new technologies and keeping up with current tools and trends.">
+    <meta name="google-site-verification" content="mbSHH9GAaM4DMC_JFrN8yzL8-hs7csT1UxshaZ_yN6U" />
     <title>Marissa Berresford - Online Portfolio</title>
         <link rel="stylesheet" href="/master.css" type="text/css" />
 </head>
 <body>
     <form id="form1" runat="server">
         <div class="topbar">
-            <a id="titlename" href="Default.aspx">M. Berresford</a>
+            <a id="titlename" href="Default.aspx"><h1>Marissa Berresford</h1></a>
             <br>
             <nav id="main-nav">
                 <a runat="server" id="linkResume" href="resume.aspx" >Resume</a>
