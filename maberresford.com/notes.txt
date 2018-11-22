@@ -1,0 +1,16 @@
+﻿VS colors:
+
+Light Blue = 122 193 255
+Darker Blue (bottom bar) = 0 122 204
+Background = 30 30 30 
+Mid Gray (top bar) = 45 45 48
+Outline Gray (headings, inactive icons) = 63 63 70
+Light gray (scroll bar) = 104 104 104
+
+Text:
+light blue = 156, 220, 254
+blue = 39, 95, 187
+cyanish = 78, 201, 176
+text quotes = 214, 157, 133
+numbering = 36, 126, 175
+comments = 77, 166, 58

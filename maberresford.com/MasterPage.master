@@ -1,0 +1,34 @@
+<%@ Master Language="C#" AutoEventWireup="true" ClientIDMode="Static" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html prefix="og:http://ogp.me/ns#">
+<head runat="server"> 
+  <meta property="og:title" content="Marissa Berresford - Online Portfolio" />
+  <meta property="og:image" content="http://maberresford.com/images/cmdline.jpg" />
+    <meta charset="UTF-8">
+  
+    <title>Marissa Berresford - Online Portfolio</title>
+        <link rel="stylesheet" href="/master.css" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="topbar">
+            <a id="titlename" href="Default.aspx">M. Berresford</a>
+            <br>
+            <nav id="main-nav">
+                <a runat="server" id="linkResume" href="resume.aspx" >Resume</a>
+                <a runat="server" id="linkportfolio" href="portfolio.aspx">Portfolio</a>
+                <a runat="server" id="linktools" href="tools.aspx">Tools</a>
+                <a runat="server" id="linkcontact" href="contact.aspx" >Contact</a>
+            </nav>
+        </div>
+        <div id="bodycontent" runat="server">
+            <div id="bodycontext" runat="server">
+        <asp:ContentPlaceHolder ID="bodypage" runat="server">
+        </asp:ContentPlaceHolder>
+                </div>
+            </div>
+    </form>
+</body>
+</html>
