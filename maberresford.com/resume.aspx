@@ -75,12 +75,12 @@
     <p class="title2">Tech Skills</p>
     <div id="codecontainer" style="font-size:15px;">
         <pre class="code">
-            <code><b>My daily drivers { </b>C#, JavaScript, SQL, HTML, CSS, UWP applications, Thingworx<b> }</b></code>
-            <code><b>Used previously { </b>LINQ, WPF & WinForms, Java, COBOL<b> }</b></code>
-            <code><b>I'm getting better { </b>Windows Azure<b> }</b></code>
-            <s><code>/* Would love to learn { Android development - MAUI/Xamarin looks cool! }*/</code></s>
+        <code><b>My daily drivers { </b>C#, JavaScript, SQL, HTML, CSS, UWP applications, Thingworx<b> }</b></code>
+        <code><b>Used previously { </b>LINQ, WPF & WinForms, Java, COBOL<b> }</b></code>
+        <code><b>I'm getting better { </b>Windows Azure<b> }</b></code>
+        <s><code>/* Would love to learn { Android development - MAUI/Xamarin looks cool! }*/</code></s>
         </pre>
-        </div>
+    </div>
     <p class="title2">Education</p>
     <p>📜 May 2014. <b>Associate of Arts and Sciences (AAS), Computer Programming @ J. Sargeant Reynolds Community College - Richmond, VA</b></p>
     <ul>

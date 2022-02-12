@@ -195,6 +195,26 @@ s {
             }
     }
 
+
+    pre.code {
+        white-space: pre-wrap;
+        text-decoration: none;
+    }
+
+        pre.code:before {
+            counter-reset: listing;
+        }
+
+        pre.code code {
+            counter-increment: listing;
+        }
+
+            pre.code code::before {
+                content: counter(listing) " | ";
+                display: block;
+                color: rgb(36, 126, 175);
+            }
+@media only screen and (min-width: 768px) { /* Desktop */
     pre.code {
         white-space: pre-wrap;
         text-decoration: none;
@@ -213,3 +233,4 @@ s {
                 display: inline-block;
                 color: rgb(36, 126, 175);
             }
+}
