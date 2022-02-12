@@ -34,11 +34,11 @@
     <hr />
     <p>🎲 Mar 2017 - May 2018. <u>"Programmer @ Paradox Comics-N-Cards" (part-time)</u></p>
      <ul>
-        <li>Design, implement, and maintain store systems for customer rewards and special order tracking.</li>
-        <li>Act as a combination of developer, admin, marketer, and project manager.</li>
-        <li>Manage customer/player announcements and engagement.</li>
-        <li>Support the community for Dungeons and Dragons in Fargo.</li>
-        <li><b>Highlights: These projects have helped my scripting and automation skills in a big way. Being able to give back to the D&D community has been fantastic and I've received great feedback on the systems.</b></li>
+        <li>Designed, implemented, and maintained store systems for customer rewards and special order tracking.</li>
+        <li>Acted as a combination of developer, admin, marketer, and project manager.</li>
+        <li>Managed customer/player announcements and engagement.</li>
+        <li>Supported the community for Dungeons and Dragons in Fargo.</li>
+        <li><b>Highlights: These projects helped my scripting and automation skills in a big way. Being able to give back to the D&D community was fantastic and I received great feedback on the systems.</b></li>
      </ul>
     <p>⚡ Feb 2015 - Jan 2018. <u>"Software Engineer @ CoreLink Administrative Solutions"</u></p>
     <ul>
@@ -54,7 +54,7 @@
         <li>Performed data entry from scanned and digital enrollment forms.</li>
         <li>Handled troubleshooting inconsistencies throughout enrollment process.</li>
         <li><i>This position was primarily data-entry and not programming, so I was actively seeking another position and landed at CoreLink after a few months.</i></li>
-        <li><b>Highlights: The work wasn't very difficult and not particularly exciting, but the knowledge I gained here was a perfect springboard into working with insurance claims data at CoreLink.</b></li>
+        <li><b>Highlights: The work wasn't very difficult or exciting, but the knowledge I gained here was a perfect springboard into working with insurance claims data at CoreLink.</b></li>
     </ul>
     <p>🎄 Oct 2011 - Jun 2014. <u>"Back Room Associate @ Christmas Tree Shops"</u></p>
      <ul>
