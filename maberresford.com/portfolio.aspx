@@ -8,11 +8,11 @@
     <hr />
     <p class="title2">Track Simulator</p>
     <ul class="nobullet">
-        <li class="info">The software we use at the drag strip to manage the timing system has a horrific UI and terrible data organization, so I wanted to create what my own verison would look like. This will never be hooked up to real sensor data, but it'll look and act like a real timing system.</li>
+        <li class="info">A desktop application for running a hypothetical timing system for drag races.</li>
         <li class="folder">C#, UWP, SQLite3</li>
         <li class="git"><a class="github" href="https://github.com/MarissaB/TrackSimulator">Check it out on GitHub!</a></li>
     </ul>
-    <p>I enjoy running D&D games as a DM and wanted to spin up a creative project for the winter. It's also a fun time to play with the newest UWP controls.</p>
+    <p>The software we use at the drag strip to manage the timing system has a horrific UI and terrible data organization, so I wanted to create what my own verison would look like. This will never be hooked up to real sensor data, but it'll look and act like a real timing system.</p>
     <hr />
     <p class="title2">Secret Santa Generator</p>
     <ul class="nobullet">
@@ -20,7 +20,6 @@
         <li class="folder">C#, WPF</li>
         <li class="git"><a class="github" href="https://github.com/MarissaB/SecretSanta">Check it out on GitHub!</a></li>
     </ul>
-    <p>I enjoy running D&D games as a DM and wanted to spin up a creative project for the winter. It's also a fun time to play with the newest UWP controls.</p>
     <hr />
     <p class="title2">DM Suite</p>
     <ul class="nobullet">

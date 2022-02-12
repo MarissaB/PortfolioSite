@@ -9,6 +9,7 @@
     <meta charset="UTF-8">
     <meta name="description" content="Marissa Berresford is a programmer who enjoys learning new technologies and keeping up with current tools and trends.">
     <meta name="google-site-verification" content="mbSHH9GAaM4DMC_JFrN8yzL8-hs7csT1UxshaZ_yN6U" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Marissa Berresford - Online Portfolio</title>
         <link rel="stylesheet" href="/master.css" type="text/css" />
 </head>
@@ -20,8 +21,8 @@
                 <a runat="server" id="linkResume" href="resume.aspx">Resume</a>
                 <a runat="server" id="linkportfolio" href="portfolio.aspx">Portfolio</a>
                 <a runat="server" id="linktools" href="tools.aspx">Tools</a>
-                <a class="linkedin" href="https://www.linkedin.com/in/marissa-b/"><img src="/images/l_inlogo.png" height="16" width="16"/> Connect on LinkedIn</a>
-                <a class="github" href="https://github.com/MarissaB"><img src="/images/icon_git.png"/> View Github Projects</a>
+                <a class="linkedin" href="https://www.linkedin.com/in/marissa-b/"><img src="/images/l_inlogo.png" height="16" width="16"/> LinkedIn</a>
+                <a class="github" href="https://github.com/MarissaB"><img src="/images/icon_git.png"/> Github</a>
             </nav>
         </div>
         <div id="bodycontent" runat="server">

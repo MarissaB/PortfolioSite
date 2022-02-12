@@ -34,87 +34,124 @@ s {
     border-top: solid 2px;
     border-top-color: rgb(63, 63, 70);
     margin-top: 2px; /* Lined up to be immediately below the tabs, same value as border-top */
-    padding-left: 15px;
-    padding-right: 15px;
+    margin-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
     text-align: center;
 }
 
 #bodycontext {
-    display:inline-block;
-    text-align:left;
-    margin-left:10%;
-    margin-right:10%;
+    display: inline-block;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+@media only screen and (min-width: 768px) { /* Desktop */
+    #bodycontent {
+        background-color: rgb(30, 30, 30);
+        display: block;
+        border-top: solid 2px;
+        border-top-color: rgb(63, 63, 70);
+        margin-top: 2px; /* Lined up to be immediately below the tabs, same value as border-top */
+        margin-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
+    }
+
+    #bodycontext {
+        display: inline-block;
+        text-align: left;
+        margin-left: 10%;
+        margin-right: 10%;
+        
+    }
 }
 
     .title1 {
-        text-align:center;
-        font-size:35px;
+        text-align: center;
+        font-size: 35px;
     }
 
     .title2 {
-        text-align:center;
-        font-size:25px;
+        text-align: center;
+        font-size: 25px;
     }
 
-a.github {
-    color: rgb(240, 81, 51);
-}
+    a.github {
+        color: rgb(240, 81, 51);
+    }
 
-a.linkedin {
-    color: #0072b1;
-}
+    a.linkedin {
+        color: #0072b1;
+    }
 
-ul.nobullet {
-    list-style-type: none;
-}
-li.folder {
-    background: url('images/icon_folder.png') no-repeat left center;
-    padding-left: 25px;
-}
+    ul.nobullet {
+        list-style-type: none;
+    }
 
-li.info {
-    background: url('images/icon_info.png') no-repeat left center;
-    padding-left: 25px;
-}
+    li.folder {
+        background: url('images/icon_folder.png') no-repeat left center;
+        padding-left: 25px;
+    }
 
-li.git {
-    background: url('images/icon_git.png') no-repeat left center;
-    padding-left: 25px;
-}
+    li.info {
+        background: url('images/icon_info.png') no-repeat left center;
+        padding-left: 25px;
+    }
 
-li.add {
-    background: url('images/icon_add.png') no-repeat left center;
-    padding-left: 25px;
-}
+    li.git {
+        background: url('images/icon_git.png') no-repeat left center;
+        padding-left: 25px;
+    }
 
-#titlename {
-    font-size: 35px;
-    font-weight: bolder;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
-    display: block;
-    text-decoration: none;
-    padding-left: 20px;
-}
+    li.add {
+        background: url('images/icon_add.png') no-repeat left center;
+        padding-left: 25px;
+    }
 
-#main-nav {
-    /*float: left;*/
-    position:relative;
-    display:block;
-    color: white;
-    text-decoration: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 5px 20px 0 20px;
-    padding: 5px 20px 0 20px;
-    font-size: 80%;
-}
+    #titlename {
+        font-size: 16px;
+        font-weight: bolder;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        display: block;
+        text-decoration: none;
+        padding-left: 20px;
+    }
 
-    #main-nav a {
+    @media only screen and (min-width: 768px) { /* Desktop */
+        #titlename {
+            font-size: 35px;
+            font-weight: bolder;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            display: block;
+            text-decoration: none;
+            padding-left: 20px;
+        }
+    }
+
+    #main-nav {
+        position: relative;
+        display: block;
         color: white;
         text-decoration: none;
-        padding: 5px 20px 2px 20px;
-        background-color: rgb(63, 63, 70);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 5px;
+        padding: 5px;
+        font-size: 16px;
     }
+
+        #main-nav a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 20px 2px 20px;
+            background-color: rgb(63, 63, 70);
+            display: inline-block;
+            margin: 5px 5px 5px 5px;
+        }
 
         #main-nav .active {
             border-bottom: 0;
@@ -126,21 +163,53 @@ li.add {
             background-color: rgb(122, 193, 255);
         }
 
-pre.code {
-    white-space: pre-wrap;
-    text-decoration:none;
-}
-
-    pre.code:before {
-        counter-reset: listing;
-    }
-
-    pre.code code {
-        counter-increment:listing;
-    }
-
-        pre.code code::before {
-            content: counter(listing) " | ";
-            display: inline-block;
-            color: rgb(36, 126, 175);
+    @media only screen and (min-width: 768px) { /* Desktop */
+        #main-nav {
+            position: relative;
+            display: block;
+            color: white;
+            text-decoration: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 5px 20px 0 20px;
+            padding: 5px 20px 0 20px;
+            font-size: 24px;
         }
+
+            #main-nav a {
+                color: white;
+                text-decoration: none;
+                padding: 5px 20px 2px 20px;
+                background-color: rgb(63, 63, 70);
+                font-size: 24px;
+                margin: 0px;
+            }
+
+            #main-nav .active {
+                border-bottom: 0;
+                background-color: rgb(0, 122, 204);
+            }
+
+            #main-nav a:hover {
+                border-bottom: 0;
+                background-color: rgb(122, 193, 255);
+            }
+    }
+
+    pre.code {
+        white-space: pre-wrap;
+        text-decoration: none;
+    }
+
+        pre.code:before {
+            counter-reset: listing;
+        }
+
+        pre.code code {
+            counter-increment: listing;
+        }
+
+            pre.code code::before {
+                content: counter(listing) " | ";
+                display: inline-block;
+                color: rgb(36, 126, 175);
+            }
