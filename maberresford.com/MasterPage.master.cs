@@ -11,12 +11,6 @@ public partial class MasterPage : System.Web.UI.MasterPage
     {
         bool colorbar = false;
 
-        if (Request.Url.AbsolutePath.EndsWith("contact.aspx"))
-        {
-            linkcontact.Attributes["class"] = "active";
-            colorbar = true;
-        }
-
         if (Request.Url.AbsolutePath.EndsWith("resume.aspx"))
         {
             linkResume.Attributes["class"] = "active";

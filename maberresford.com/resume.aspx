@@ -5,7 +5,7 @@
     <p class="title2">In a nutshell.</p>
     <p><!--I'm working on my career in programming and system management, and I'm looking for a company with long-term potential and flexibility to let their devs grow with new technologies. I enjoy variety and new challenges.
         <br /><br />-->
-        Originally I hail from Richmond, VA and moved to Fargo, ND in June 2014 after I graduated from college, so my experience is 'split' between non-technical work pre-college and more technical work post-college. I also have a tendency to pick up interesting side jobs, hence the overlapping timelines.
+        Originally I hail from Richmond, VA and moved to Fargo, ND in June 2014 after I graduated from college, so my experience is 'split' between non-technical work pre-college and more technical work post-college. I also have a tendency to pick up interesting side jobs.
     </p>
     <p class="title2">Experience</p>
     <p>⚡ Jan 2018 - Current. <u>"Software Engineer @ New Vision</u></p>
@@ -15,23 +15,23 @@
         <li>Create solutions to solve client problems.</li>
         <li><b>Highlights: I love the variety of projects we do for many different manufacturing clients. My team is cohesive and we learn quickly together.</b></li>
     </ul>
-    <p>🕸️ April 2018 - Current. <u>"Web Admin @ Top End Dragways"</u></p>
+    <p>🕸️ April 2018 - Current. <u>"Web Admin @ Interstate Raceway"</u></p>
      <ul>
-        <li>Designed and currently maintain the website for the track. <a class="github" href="http://www.topenddragways.com">Check it out!</a></li>
+        <li>Designed and currently maintain the website for the track. <a class="github" href="http://www.interstateraceway.com">Check it out!</a></li>
         <li>Managing event pages each season as well as the email subscriber list.</li>
         <li>Troubleshooting any issues and proofreading all announcements.</li>
         <li><i>When the current owners bought the track, I volunteered to redo the website and get it into the modern era with a proper design and better features.</i></li>
         <li><b>Highlights: New owners, new website. We've received great feedback on how much better connected we are with our community of racers and spectators.</b></li>
     </ul>
-    <hr />
-    <p>🏎️ May 2018 - Oct 2018. <u>"Computer Operator @ Top End Dragways" (seasonal)</u></p>
+    <p>🏎️ May 2017 - Current. <u>"Computer Operator @ Interstate Raceway" (seasonal)</u></p>
      <ul>
-        <li>Managed the timing systems for various types of NHRA drag races.</li>
-        <li>Handled troubleshooting lineup issues between vehicles.</li>
-        <li>Input racer numbers and dial-ins for eliminations.</li>
-        <li><i>Racing season runs May to Oct, hence the short duration. This was my second year at Top End Dragways.</i></li>
-        <li><b>Highlights: Year two running the tower was excellent. The track was under new management and they appreciated my speed and accuracy. My car is still slow though.</b></li>
+        <li>Running the timing systems for various types of NHRA drag races.</li>
+        <li>Troubleshooting lineup issues between vehicles.</li>
+        <li>Input racer information and dial-ins for eliminations as well as laddering competitions.</li>
+        <li><i>Racing season runs May to Oct. The track changed its name from Top End Dragways in 2020.</i></li>
+        <li><b>Highlights: I get a front row seat to the fastest cars in the area while ensuring that the show runs smoothly and data errors are minimal.</b></li>
     </ul>
+    <hr />
     <p>🎲 Mar 2017 - May 2018. <u>"Programmer @ Paradox Comics-N-Cards" (part-time)</u></p>
      <ul>
         <li>Design, implement, and maintain store systems for customer rewards and special order tracking.</li>
@@ -47,14 +47,6 @@
         <li>Fixed issues via hotfixes and corrected inaccurate data records.</li>
         <li>Prioritized tasks and incidents based on user needs and timeliness.</li>
         <li><b>Highlights: I enjoyed the fast pace, learning a ton about enterprise-level systems and insurance claim processing as well as triaging incidents and managing one's time. My team worked as Kanban/Scrumban.</b></li>
-    </ul>
-    <p>🏎️ May 2017 - Oct 2017. <u>"Computer Operator @ Top End Dragways" (seasonal)</u></p>
-     <ul>
-        <li>Managed the timing systems for various types of NHRA drag races.</li>
-        <li>Handled troubleshooting lineup issues between vehicles.</li>
-        <li>Input racer numbers and dial-ins for eliminations.</li>
-        <li><i>Racing season runs May to Oct, hence the short duration. This was my first year at Top End Dragways.</i></li>
-        <li><b>Highlights: I love cars, I love racing, it was a perfect weekend gig for the summer. My best time on the quarter mile was 17.8 sec @ 77mph with 0.229 reaction time. Slow but still fun.</b></li>
     </ul>
     <p>📝 Nov 2014 - Jan 2015. <u>"Provider Enrollment Specialist @ Noridian Healthcare Solutions"</u></p>
      <ul>
@@ -80,13 +72,13 @@
         <li><i>I was a long-term volunteer during high school and into college until my coursework overtook my free time.</i></li>
         <li><b>Highlights: I picked up a lot of meticulous HTML and CSS skills here since my tasks revolved around formatting and posting messages.</b></li>
     </ul>
-    <p class="title2">Skills</p>
+    <p class="title2">Tech Skills</p>
     <div id="codecontainer" style="font-size:15px;">
         <pre class="code">
-        <code><b>My daily drivers {</b> C#, ASP.NET, JavaScript, SQL, LINQ, HTML, CSS, ADO.NET Entity Framework, WPF, WinForms apps <b>}</b></code>
-        <code><b>I'm getting better {</b> Angular2, Windows Azure, UWP applications <b>}</b></code>
-        <code><b>Enough to be dangerous {</b> Java, COBOL, VB, VB.NET <b>}</b></code>
-        <s><code>/* Would love to learn { Android development }*/</code></s>
+            <code><b>My daily drivers { </b>C#, JavaScript, SQL, HTML, CSS, UWP applications, Thingworx<b> }</b></code>
+            <code><b>Used previously { </b>LINQ, WPF & WinForms, Java, COBOL<b> }</b></code>
+            <code><b>I'm getting better { </b>Windows Azure<b> }</b></code>
+            <s><code>/* Would love to learn { Android development - MAUI/Xamarin looks cool! }*/</code></s>
         </pre>
         </div>
     <p class="title2">Education</p>

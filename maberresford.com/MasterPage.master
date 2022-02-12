@@ -13,15 +13,15 @@
         <link rel="stylesheet" href="/master.css" type="text/css" />
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" style="position:absolute">
         <div class="topbar">
             <a id="titlename" href="Default.aspx"><h1>Marissa Berresford</h1></a>
-            <br>
             <nav id="main-nav">
-                <a runat="server" id="linkResume" href="resume.aspx" >Resume</a>
+                <a runat="server" id="linkResume" href="resume.aspx">Resume</a>
                 <a runat="server" id="linkportfolio" href="portfolio.aspx">Portfolio</a>
                 <a runat="server" id="linktools" href="tools.aspx">Tools</a>
-                <a runat="server" id="linkcontact" href="contact.aspx" >Contact</a>
+                <a class="linkedin" href="https://www.linkedin.com/in/marissa-b/"><img src="/images/l_inlogo.png" height="16" width="16"/> Connect on LinkedIn</a>
+                <a class="github" href="https://github.com/MarissaB"><img src="/images/icon_git.png"/> View Github Projects</a>
             </nav>
         </div>
         <div id="bodycontent" runat="server">

@@ -6,8 +6,10 @@
     <p>I&#39;ve used various IDEs and utilities to work through websites and code. Years on this page denote specific software editions, not the years I used them (ex. I used TFS v2013 from early 2015 through late 2016).</p>
     <p>IDEs & Editors</p>
     <ul>
-        <li><i>Visual Studio v2008-2017</i>: This has been my bread and butter for many years. At home I use VS Community 2017 and I've been using it in various editions since VS 2008.</li>
-        <li><i>SQL Server Management Studio v2008-2015</i>: Par for the course for any SQL work.</li>
+        <li><i>Visual Studio</i>: This has been my bread and butter for many years. At home I use VS Community 2019 and I've been using it in various editions since VS 2008.</li>
+        <li><i>Thingworx Composer</i>: The in-browser "builder" for Thingworx is a very different environment but works well for developing Thingworx web apps.</li>
+        <li><i>SQL Server Management Studio</i>: Par for the course for any SQL work.</li>
+        <li><i>SQLite DB Browser</i>: This browser is awesome for making SQLite database updates quickly and checking that my apps are working correctly for CRUD operations.</li>
         <li><i>Google Scripts</i>: While it's not a local IDE, it's a great platform for working with Google's web application ecosystem.</li>
         <li><i>Notepad++</i>: Please don't make me go back to normal Notepad.</li>
         <li><i>LINQPad</i>: Testing code snippets without having to use dummy projects is fantastic.</li>
@@ -23,7 +25,7 @@
     </ul>
     <p>Other Software</p>
     <ul>
-        <li><i>SoapUI</i>: I've used it for testing automation when providing application support, and I'm learning to create my own tests for personal projects.</li>
+        <li><i>SoapUI</i>: I've used it for testing automation when providing application support.</li>
         <li><i>FileZilla</i>: Standard FTP client for personal projects.</li>
         <li><i>Adobe Photoshop & Illustrator</i>: I've designed banners and shirts for charity work as well as vehicle wrap designs for personal use.</li>
         <li><i>Microsoft Office (Word, Powerpoint, etc)</i>: Standard document processing that we all know and love.</li>
