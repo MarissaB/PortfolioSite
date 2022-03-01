@@ -234,3 +234,18 @@ s {
                 color: rgb(36, 126, 175);
             }
 }
+
+@media only screen and (min-width: 768px) { /* Desktop */
+    img.timeline {
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+img.timeline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

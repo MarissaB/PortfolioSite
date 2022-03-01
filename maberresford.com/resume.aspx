@@ -5,8 +5,9 @@
     <p class="title2">In a nutshell.</p>
     <p><!--I'm working on my career in programming and system management, and I'm looking for a company with long-term potential and flexibility to let their devs grow with new technologies. I enjoy variety and new challenges.
         <br /><br />-->
-        Originally I hail from Richmond, VA and moved to Fargo, ND in June 2014 after I graduated from college, so my experience is 'split' between non-technical work pre-college and more technical work post-college. I also have a tendency to pick up interesting side jobs.
+        Originally I hail from Richmond, VA and moved to Fargo, ND in June 2014 after I graduated from college, so my experience is 'split' between non-technical work pre-college and more technical work post-college. I also have a tendency to pick up interesting side jobs and have worked long-term at a race track. Click the timeline if you'd prefer a visual.
     </p>
+    <a href="/images/timeline_visual.png" target="_blank"><img class="timeline" src="/images/timeline_visual.png" /></a>
     <p class="title2">Experience</p>
     <p>⚡ Jan 2018 - Current. <u>"Software Engineer @ New Vision</u></p>
     <ul>
