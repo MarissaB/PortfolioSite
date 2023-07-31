@@ -3,27 +3,27 @@
   <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
   <url>
     <loc>http://maberresford.com/</loc>
-    <lastmod>2022-02-11T20:27:22+00:00</lastmod>
+    <lastmod>2023-07-11T20:27:22+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>http://maberresford.com/Default.aspx</loc>
-    <lastmod>2022-02-11T20:27:22+00:00</lastmod>
+    <loc>http://maberresford.com</loc>
+    <lastmod>2023-07-11T20:27:22+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://maberresford.com/resume.aspx</loc>
-    <lastmod>2022-02-11T20:27:22+00:00</lastmod>
+    <loc>http://maberresford.com/resume.html</loc>
+    <lastmod>2023-07-11T20:27:22+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://maberresford.com/portfolio.aspx</loc>
-    <lastmod>2022-02-11T20:27:22+00:00</lastmod>
+    <loc>http://maberresford.com/portfolio.html</loc>
+    <lastmod>2023-07-11T20:27:22+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://maberresford.com/tools.aspx</loc>
-    <lastmod>2022-02-11T20:27:22+00:00</lastmod>
+    <loc>http://maberresford.com/tools.html</loc>
+    <lastmod>2023-07-11T20:27:22+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
